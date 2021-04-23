@@ -271,6 +271,35 @@ footer {
 
 /* responsividad  pantallas medias*/
 
+@media screen and (max-width:1500px){
+    nav {
+        text-align: center;
+        padding: 30px 40px 0 0;
+    }
+
+    nav>a {
+
+        margin-right: 15px;
+    }
+
+
+    nav img {
+        width: 28px;
+        height: 28px;
+
+    }
+
+    nav img:hover {
+        width: 28px;
+        height: 28px;
+
+    }
+
+
+}
+
+
+
 
 @media screen and (max-width: 1200px) {
 
