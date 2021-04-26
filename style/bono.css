@@ -110,10 +110,6 @@ nav img:hover {
 
 }
 
-.nav-menu-link_active {
-
-    transition: 0.5s;
-}
 
 .zoom{
     transition: transform .5s;
@@ -126,6 +122,12 @@ nav img:hover {
 
 
 }
+
+.nav-menu-link_active {
+
+    transition: 0.5s;
+}
+
 
 
 .toogle-botton{
