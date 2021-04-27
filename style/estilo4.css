@@ -112,6 +112,18 @@ nav img:hover {
 
 }
 
+.zoom{
+    transition: transform .5s;
+}
+
+.zoom:hover{
+
+
+    transform: scale(1.5);
+
+
+}
+
 
 .toogle-botton{
     height: 80px;
