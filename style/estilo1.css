@@ -371,6 +371,36 @@ z-index: -1;
 }
 
 
+#app-whatsapp{
+    position: fixed;
+    right: 24px;
+    bottom: 25px;
+    width: 60px;
+    z-index: 1000;
+    display: none;
+}
+
+#app-whatsapp{
+bottom: 95px;
+display: block;
+
+}
+
+
+#app-whatsapp i{
+   font-size: 63px;
+    
+    }
+
+
+
+    #app-whatsapp i{
+       color: #1ebea5;
+         }
+
+
+
+
 
 
 footer {
